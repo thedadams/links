@@ -7,7 +7,7 @@
     {"name": "Twitter", "url": "https://twitter.com/thedadams", "description": "Love it or hate it, its the best place to get and share information.", "fileUrl": "/twitter.png"},
     {"name": "LinkedIn", "url": "https://www.linkedin.com/in/thedadams", "description": "You can see my professional journey, accomplishments, and contacts.", "fileUrl": "/linkedin.png"},
     {"name": "Facebook", "url": "https://facebook.com/thedadams", "description": "Mostly used for keeping in touch with family and friends.", "fileUrl": "/facebook.png"},
-    {"name": "Ingstagram", "url": "https://instagram.com/thedadams", "description": "Any picture I deem worth sharing is there. Not many, but the important ones.", "fileUrl": "/instagram.png"},
+    {"name": "Ingstagram", "url": "https://instagram.com/thedadams", "description": "Any picture I deem worthy of sharing is there. Not many, but the important ones.", "fileUrl": "/instagram.png"},
     {"name": "Reddit", "url": "https://www.reddit.com/user/thedadams", "description": "I love Reddit. Its my favorite place to find new memes and interesting videos.", "fileUrl": "/reddit.png"},
     {"name": "GitHub", "url": "https://www.github.com/thedadams", "description": "Check out my open-source projects and contributions.", "fileUrl": "/github.png"}
 ]
