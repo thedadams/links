@@ -1,4 +1,5 @@
 [
+    {"name": "Calendly", "url": "https://calendly.com/thedadams", "description": "Schedule some time to chat. Anything you want.", "fileUrl": "https://assets.calendly.com/assets/frontend/media/logo-square-cd364a3c33976d32792a.png"},
     {"name": "Email", "url": "mailto:donnie@thedadams.com", "description": "Just a simple email address.", "fileUrl": "/email.png"},
     {"name": "Telegram", "url": "https://telegram.me/thedadams", "description": "Telegram is my preferred messaging platform.", "fileUrl": "/telegram.png"},
     {"name": "Proton Mail", "url": "mailto:thedadams@protonmail.com", "description": "Proton Mail is an easy way to send encrypted email. No crypto knowledge necessary.", "fileUrl": "/protonMail.png"},
